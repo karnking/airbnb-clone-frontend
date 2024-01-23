@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-  baseURL: "https://airbnb-clone-p8wh.onrender.com",
+  baseURL: "https://airbnb-depr.onrender.com/",
   withCredentials: true,
 });
 
